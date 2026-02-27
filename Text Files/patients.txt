@@ -1,0 +1,10 @@
+P50001|stephie|123456|Stephie|Li Ah Kane|Female|03/03/2002|22|stephie@example.com|0163344556|789 Third Road|11223|Villeshire
+P50002|hemshika|123456|Hemshika|Jadoo|Female|04/04/2003|21|hemshika@example.com|0174455667|101 Fourth Lane|33445|Metrocity
+P50003|ethanr|123456|Ethan|Reed|Male|05/05/2000|25|ethanr@gmail.com|0123456781|12 Maple Street|44556|Brooktown
+P50004|miaw|123456|Mia|Wilson|Female|06/06/2001|24|miaw@hotmail.com|0123456782|34 Oak Avenue|55667|Lakeside
+P50005|lucasf|123456|Lucas|Foster|Male|07/07/2000|25|lucasf@gmail.com|0125566773|56 Pine Road|66778|Hillview
+P50006|olivias|123456|Olivia|Scott|Female|08/08/2001|24|olivias@hotmail.com|0136677884|78 Cedar Lane|77889|Riverside
+P50007|noahc|123456|Noah|Carter|Male|09/09/2000|25|noahc@gmail.com|0147788995|90 Birch Street|88900|Sunnyvale
+P50008|avak|123456|Ava|King|Female|10/10/2001|24|avak@outlook.com|0158899006|123 Spruce Road|99011|Greenfield
+P50009|ethanal|123456|Ethan|Allen|Male|11/11/2002|22|ethanal@gmail.com|0169900117|145 Willow Street|11122|Fairview
+P50010|emmak|123456|Emma|Khan|Female|12/12/2003|21|emmak@hotmail.com|0170011228|167 Poplar Avenue|22233|Riverbend

@@ -1,0 +1,5 @@
+S99894|shaad|123456|Shaad|Abdool|Male|03/03/2000|25|shaad@gmail.com|01234568369|Bukit Jalil|57000|Kuala Lumpur
+S50001|amelia|123456|Amelia|Gray|Female|12/05/1990|35|amelia.gray@gmail.com|01234568200|12 Sunrise Street|50100|KL
+S50002|owen|123456|Owen|Hughes|Male|23/07/1985|40|owen.hughes@hotmail.com|01234568201|34 River Road|50200|KL
+S50003|nina|123456|Nina|Brooks|Female|04/11/1988|36|nina.brooks@gmail.com|01234568202|56 Pine Avenue|50300|KL
+S50004|leo|123456|Leo|Grant|Male|18/03/1992|33|leo.grant@outlook.com|01234568203|78 Maple Lane|50400|KL
