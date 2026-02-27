@@ -1,5 +1,0 @@
-M28384|maneet|123456|Maneet|Mehta|Male|15/05/2004|21|maneet@gmail.com|0123456789|25 Avenue Street|57000|KL
-M50001|oliviaa|123456|Olivia|Anderson|Female|08/08/1992|31|oliviaa@gmail.com|01234568120|12 Cedar Street|50100|KL
-M50002|ethanb|123456|Ethan|Brown|Male|22/03/1991|32|ethanb@hotmail.com|01234568121|34 Oak Road|50200|KL
-M50003|chloec|123456|Chloe|Carter|Female|15/06/1990|33|chloec@gmail.com|01234568122|56 Pine Avenue|50300|KL
-M50004|noahd|123456|Noah|Davis|Male|10/11/1989|34|noahd@outlook.com|01234568123|78 Maple Lane|50400|KL
