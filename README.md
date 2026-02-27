@@ -15,7 +15,7 @@ OOP concepts includs encapsulation, inheritance, polymorphism, and abstraction.
 ## How to Run
 1. Ensure Java is installed.
 2. Open the project in any Java IDE.
-3. Compile and run `Main.java`.
+3. Compile and run `LoginRegistrationApp.java`.
 
 ## Notes
 - Designed for desktop use.
