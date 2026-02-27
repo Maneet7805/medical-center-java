@@ -1,0 +1,50 @@
+M001|Paracetamol
+M002|Ibuprofen
+M003|Amoxicillin
+M004|Fluconazole
+M005|Folic Acid
+M006|Cetirizine
+M007|Metformin
+M008|Atorvastatin
+M009|Omeprazole
+M010|Azithromycin
+M011|Hydroxyzine
+M012|Vitamin D
+M013|Aspirin
+M014|Losartan
+M015|Cough Syrup
+M016|Loratadine
+M017|Ranitidine
+M018|Clindamycin
+M019|Prednisone
+M020|Simvastatin
+M021|Enalapril
+M022|Salbutamol Inhaler
+M023|Montelukast
+M024|Amoxicillin-Clavulanate
+M025|Nystatin
+M026|Benzoyl Peroxide Cream
+M027|Hydrocortisone Cream
+M028|Ketoconazole Cream
+M029|Tretinoin Cream
+M030|Calamine Lotion
+M031|Mupirocin Ointment
+M032|Lidocaine Gel
+M033|Fluticasone Nasal Spray
+M034|Oxymetazoline Nasal Spray
+M035|Betahistine
+M036|Amoxicillin Suspension (Pediatric)
+M037|Paracetamol Suspension (Pediatric)
+M038|Ibuprofen Suspension (Pediatric)
+M039|Vitamin C Chewables
+M040|Ferrous Sulfate
+M041|Chlorhexidine Mouthwash
+M042|Fluoride Gel
+M043|Topical Anesthetic Gel
+M044|Acetaminophen Drops
+M045|Cephalexin
+M046|Naproxen
+M047|Diclofenac Gel
+M048|Cetirizine Syrup
+M049|Saline Nasal Spray
+M050|Hydrocortisone Ointment

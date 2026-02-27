@@ -1,0 +1,50 @@
+T001|Root Canal|150
+T002|Tooth Extraction|80
+T003|Filling|60
+T004|Teeth Whitening|200
+T005|Braces Consultation|100
+T006|Scaling and Polishing|120
+T007|Gum Surgery|300
+T008|Crowns and Bridges|250
+T009|Dental X-Ray|50
+T010|Wisdom Tooth Removal|180
+T011|General Checkup|50
+T012|Blood Test|30
+T013|Vaccination|40
+T014|Minor Surgery|250
+T015|Physical Examination|60
+T016|ECG|100
+T017|Urine Analysis|35
+T018|Allergy Test|80
+T019|Diabetes Screening|70
+T020|Health Counseling|40
+T021|Child Wellness Check|60
+T022|Immunization|45
+T023|Growth Assessment|50
+T024|Pediatric Nutrition Counseling|40
+T025|Vision Screening|35
+T026|Hearing Test|50
+T027|Developmental Screening|55
+T028|Fluoride Treatment|30
+T029|Minor Injury Care|70
+T030|Asthma Management|80
+T031|Acne Treatment|90
+T032|Skin Allergy Treatment|80
+T033|Mole Removal|150
+T034|Chemical Peel|200
+T035|Skin Biopsy|120
+T036|Wart Removal|70
+T037|Laser Therapy|250
+T038|Psoriasis Treatment|150
+T039|Eczema Treatment|100
+T040|Skin Consultation|60
+T041|Ear Examination|50
+T042|Hearing Aid Fitting|200
+T043|Sinus Surgery|300
+T044|Tonsillectomy|250
+T045|Nasal Endoscopy|150
+T046|Voice Therapy|100
+T047|Allergy Testing|80
+T048|Ear Wax Removal|60
+T049|Sleep Apnea Assessment|180
+T050|ENT Consultation|70
