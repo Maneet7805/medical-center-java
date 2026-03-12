@@ -47,7 +47,3 @@ OOP concepts includes encapsulation, inheritance, polymorphism, and abstraction.
 - Demonstrates object-oriented programming principles.
 
 ---
-
-© 2024 Maneet7805. All Rights Reserved.
-
-</div>
