@@ -1,4 +1,4 @@
-# Medical Center Java System 🏥
+# Medical Center Java System 
 
 A GUI-based Java application for managing patient records, appointments, and prescriptions. Built using Swing and AWT with OOP principles.
 
@@ -10,21 +10,21 @@ A GUI-based Java application for managing patient records, appointments, and pre
 
 ---
 
-## 📋 Overview
+## Overview
 
 A GUI-based Java application for managing patient records, appointments, and prescriptions. Built using Swing and AWT with OOP principles.  
 OOP concepts includes encapsulation, inheritance, polymorphism, and abstraction.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - Java
 - Swing & AWT
 
 ---
 
-## ✨ Features
+## Features
 
 - Add and manage patient records
 - Schedule and track appointments
@@ -33,7 +33,7 @@ OOP concepts includes encapsulation, inheritance, polymorphism, and abstraction.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Ensure Java is installed.
 2. Open the project in any Java IDE.
@@ -41,9 +41,12 @@ OOP concepts includes encapsulation, inheritance, polymorphism, and abstraction.
 
 ---
 
-## 📝 Notes
+## Notes
 
 - Designed for desktop use.
 - Demonstrates object-oriented programming principles.
 
 ---
+
+### Contributors
+Aubdool Shaad Project Repository: https://github.com/shaadaubdool-sketch/APU-Medical-Centre---Java
